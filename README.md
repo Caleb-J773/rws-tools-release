@@ -1,4 +1,4 @@
-# RWS-Tools: A Collection of *eventually* Utilities for Radio Web Services RWS
+# RWS-Tools: A Collection of *eventual* Utilities for Radio Web Services RWS
 Welcome to RWS-Tools, a fun and experimental project for expanding Radio Web Services (RWS) through the development of tools and applications. My well goal is to inspire and provide resources for the community.
 
 ## About RWS-Tools 
